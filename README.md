@@ -12,13 +12,13 @@ In this repository, I only modify `kinematics_assignment_metapackage/kinematics_
 
 PART 1: SCARA ROBOT
 	
-	To visualize the robot, run: 
+To visualize the robot, run: 
 	
-           roslaunch kinematics_assignment scara_launch.launch
+           ```roslaunch kinematics_assignment scara_launch.launch```
 	
-	PART 2: KUKA ROBOT
+PART 2: KUKA ROBOT
 	
-	To visualize the robot, run: 
+To visualize the robot, run: 
 
-           roslaunch kinematics_assignment kuka_launch.launch
+           ```roslaunch kinematics_assignment kuka_launch.launch```
 
